@@ -15,7 +15,6 @@ module bit4adder(in1,in2,cy_in,cy_out,sum);
     xor g2(sum[1],in1[1],in2[1],carry[1]);
     xor g3(sum[2],in1[2],in2[2],carry[2]);
     xor g4(sum[3],in1[3],in2[3],carry[3]);
-    // assign sum[4]=cy_out;
 
 endmodule
 
