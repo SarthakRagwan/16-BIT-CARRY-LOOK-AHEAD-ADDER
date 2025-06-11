@@ -16,3 +16,10 @@ carry_in[k] = (in1[k]&in2[k]) | ((in1[k]⊕in2[k])&carry_in[k−1])
 where carry_in[k-1] represents the carry-in from the previous bit position.
 
 This implementation demonstrates how digital design principles and modular construction can be combined to build high-performance arithmetic circuits.
+
+Here are the block and structural level diagram of diffrent part of the circuit : 
+
+![4 BIT CLA BLOCK DIAGRAM](https://raw.githubusercontent.com/SarthakRagwan/16-BIT-CARRY-LOOK-AHEAD-ADDER/refs/heads/main/4bit-cla-block.png)
+![4 BIT CLA GATE LEVEL DIAGRAM]([https://raw.githubusercontent.com/SarthakRagwan/16-BIT-CARRY-LOOK-AHEAD-ADDER/refs/heads/main/4bit-cla-block.png](https://raw.githubusercontent.com/SarthakRagwan/16-BIT-CARRY-LOOK-AHEAD-ADDER/refs/heads/main/4bit-cla-gatelvl.png))
+![16 BIT CLA BLOCK DIAGRAM]([https://raw.githubusercontent.com/SarthakRagwan/16-BIT-CARRY-LOOK-AHEAD-ADDER/refs/heads/main/4bit-cla-block.png](https://raw.githubusercontent.com/SarthakRagwan/16-BIT-CARRY-LOOK-AHEAD-ADDER/refs/heads/main/16bit-cla-block.png))
+![16 BIT CLA GATE LEVEL DIAGRAM](https://raw.githubusercontent.com/SarthakRagwan/16-BIT-CARRY-LOOK-AHEAD-ADDER/refs/heads/main/4bit-cla-block.png)
