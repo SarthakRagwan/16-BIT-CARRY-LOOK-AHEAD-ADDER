@@ -23,3 +23,8 @@ Here are the block and structural level diagram of diffrent part of the circuit 
 ![4 BIT CLA GATE LEVEL DIAGRAM](https://raw.githubusercontent.com/SarthakRagwan/16-BIT-CARRY-LOOK-AHEAD-ADDER/refs/heads/main/4bit-cla-gatelvl.png)
 ![16 BIT CLA BLOCK DIAGRAM](https://raw.githubusercontent.com/SarthakRagwan/16-BIT-CARRY-LOOK-AHEAD-ADDER/refs/heads/main/16bit-cla-block.png)
 ![16 BIT CLA GATE LEVEL DIAGRAM](https://raw.githubusercontent.com/SarthakRagwan/16-BIT-CARRY-LOOK-AHEAD-ADDER/refs/heads/main/16bit-cla-gatelvl.png)
+
+Output Waveform :
+
+![16 BIT CLA GATE LEVEL DIAGRAM](https://github.com/SarthakRagwan/16-BIT-CARRY-LOOK-AHEAD-ADDER/blob/main/output.png?raw=true)
+
